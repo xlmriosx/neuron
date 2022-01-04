@@ -1,6 +1,6 @@
 # Neuron
 
-##Definition
+## Definition
 
 A neuron is a fundamental part of a neural network.
 
