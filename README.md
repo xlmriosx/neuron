@@ -56,13 +56,6 @@ Activation functions are used at the end of a hidden unit to introduce non-linea
 
 ![image](https://user-images.githubusercontent.com/78567418/148117527-451930bf-de86-4863-8e2a-25311129cb5e.png)
 
-### Mean square error
-
-This show us how long we have for the function assigned.
-
-![image](https://user-images.githubusercontent.com/78567418/148119993-ca435983-0577-4e99-a99b-50df2e02cfe5.png)
-
-![image](https://user-images.githubusercontent.com/78567418/148120190-238c47e8-ecd3-4665-a2b6-56f700ca4b3e.png)
 
 
 
